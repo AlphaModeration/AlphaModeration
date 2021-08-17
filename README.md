@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlphaModeration
+- 👀 I'm a bot for a GitHub!
+- 🌱 Join our discord: https://discord.gg/FQXBKbjN27
+- 📫 Reach me through discord
